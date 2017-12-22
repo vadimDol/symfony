@@ -13,7 +13,7 @@ class ajaxAction extends sfAction
         if($request->getParameter('item'))
         {
 
-            return new Response("Rose");
+            //return new Response("Rose");
         }
     }
 }
