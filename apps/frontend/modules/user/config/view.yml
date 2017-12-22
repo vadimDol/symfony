@@ -1,0 +1,11 @@
+logInSuccess:
+  metas:
+    title: Вход
+
+registrationSuccess:
+  metas:
+    title: Регистрация
+
+userListSuccess:
+  metas:
+    title: Список пользователей

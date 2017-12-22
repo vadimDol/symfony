@@ -1,0 +1,7 @@
+#ignore everything in /data/sql directory
+/data/sql/*
+
+/cache
+/vendor
+/log
+/.idea
