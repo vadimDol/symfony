@@ -23,7 +23,7 @@
 <script>
     $(document).on("change", function() {
         $.ajax({
-            url: "http://mink_test/ajax",
+            url: "ajax",
             type: "GET",
             dataType: "text",
             data: 'item=' + $('#ajax').val(),
